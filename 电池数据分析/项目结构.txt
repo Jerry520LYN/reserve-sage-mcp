@@ -1,0 +1,22 @@
+电池数据分析/
+├── MCP服务器搭建/
+│   └── MCP基本概念以及客户端与服务端搭建流程.pptx
+├── README.md
+├── battery/
+│   ├── .python-version
+│   ├── .venv/
+│   ├── battery.py
+│   ├── pyproject.toml
+│   └── uv.lock
+└── 储能电池处理方法/
+    ├── .ipynb_checkpoints/
+    │   └── test-checkpoint.ipynb
+    ├── data.csv
+    ├── numpy.pdf
+    ├── pandas.pdf
+    ├── test.ipynb
+    └── 电池数据分析/
+        ├── .ipynb_checkpoints/
+        ├── analyse.ipynb
+        ├── data.csv
+        └── 储能电站电池相关指标.md
